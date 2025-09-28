@@ -1,4 +1,4 @@
-# Drosera Trap Foundry Template
+## Drosera Trap Foundry Template
 
 This repo is for quickly bootstrapping a new Drosera project. It includes instructions for creating your first trap, deploying it to the Drosera network, and updating it on the fly.
 
